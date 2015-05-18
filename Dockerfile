@@ -1,4 +1,4 @@
-FROM base
+FROM ubuntu:trusty
 MAINTAINER Arcus "http://arcus.io"
 RUN apt-get update
 RUN DEBIAN_FRONTEND=noninteractive apt-get install -y wget nodejs npm gzip git-core curl python libssl-dev pkg-config build-essential supervisor
