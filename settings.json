@@ -48,7 +48,7 @@
   */
 
   //the default text of a pad
-  "defaultPadText" : "Welcome to Etherpad!\n\nThis pad text is synchronized as you type, so that everyone viewing this page sees the same text. This allows you to collaborate seamlessly on documents!\n\nGet involved with Etherpad at http:\/\/etherpad.org\n",
+  "defaultPadText" : "Willkommen zu Etherpad!\n\nDer Text dieses Pads text wird synchronisiert während du tippst, so dass jeder Betrachter dieser Seite den gleichen Text sieht. Das erlaubt dir nahtlos gleichzeitig an Dokumenten zu arbeiten!\n\nHilf Etherpad unter http:\/\/etherpad.org\n",
 
   /* Users must have a session to access pads. This effectively allows only group pads to be accessed. */
   "requireSession" : false,
